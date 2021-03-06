@@ -3,6 +3,8 @@
 *Description:* Re-imagining of the awesome Hoyt Esk8 remote to have a pistol grip and a larger battery.  You have to remove (desolder) the POT from the hoyt board and create a separate PCB to make the remote mounted trigger assembly. That is the only way I could figure out how to package this they way that I wanted.  See Freesk8 post for more pictures. Right now there is a wide grip version that fits both 21700 and stock hoyt battery I can add the narrow grip that only fits the stock version later. 
 https://forum.freesk8.org/t/mini-pistol-grip-with-remote-trigger-assembly/849/1
 
+Many thanks to the Freesk8 crew to inspiring me to work on this and giving me the great starting point with the 3D models. Lots of fun to learn fusion and 3D printing. 
+
 *Trigger Assembly:*  You can create this by using copper clad PCB material and drilling the hole pattern shown in the pdf. Or you can fabricate the PCB yourself with the gerbers attached.  The assembly uses the Hoyt trigger parts that come with the remote:  Spring, thumb wheel (maybe create your own with a trigger), key nob(?) and bracket that limits the range of motion and holds it all together. You have to de-solder the POT from the Hoyt board and mount it to the PCB.  Solder wires between the trigger PCB and the hoyt board.  Make sure to secure the wires, maybe with hot glue?  The 3D models were sourced from the FreeSk8 model repository. The tigger assembly STL is attached for additional modeling you might want to do.  Maybe design your own shell with a remote mounted trigger?  
 
 *Files in repository* 
