@@ -11,7 +11,7 @@ Many thanks to the Freesk8 crew to inspiring me to work on this and giving me th
 
 -STLs (self tapping and embedded nuts): STLs have two versions of securing the lid to the grip body.  One with imperial machine screws size 2-56, length 7/16”, qty 6 and 4 low profile nuts that are embedded into the print (with a pause around 5.7mm height).  The other with 6 10mm m2.5 self tapping screws. 
 
--hole pattern PDF for making your own PCB with copper clad Fr4 or something similar
+-hole pattern PDF for making your own PCB with copper clad Fr4 or something similar.  I made the first one with a bridgeport.  Dimensions in inches.
 
 -Trigger PCB gerbers [TiggerPCB1_2_23_2021.zip]
 
