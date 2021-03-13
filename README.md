@@ -15,7 +15,8 @@ Many thanks to the Freesk8 crew to inspiring me to work on this and giving me th
 
 -Trigger PCB gerbers [TiggerPCB1_2_23_2021.zip]
 
- 
+**NEW**
+-MiniPistolGrip R11.f3z  Fusion archive of the full model.  This is the version with the trigger guard.  Warning: I have not finished printing this and verifying fit.
 
 *Assembly:* 
 1)Slide the trigger assembly into the grip body. You might need to file the sides of the trigger slot so the trigger moves clean and freely.
