@@ -5,7 +5,7 @@ https://forum.freesk8.org/t/mini-pistol-grip-with-remote-trigger-assembly/849/1
 
 Many thanks to the Freesk8 crew to inspiring me to work on this and giving me the great starting point with the 3D models. Lots of fun to learn fusion and 3D printing. 
 
-*Trigger Assembly:*  You can create this by using copper clad PCB material and drilling the hole pattern shown in the pdf. Or you can fabricate the PCB yourself with the gerbers attached.  The assembly uses the Hoyt trigger parts that come with the remote:  Spring, thumb wheel (maybe create your own with a trigger), key nob(?) and bracket that limits the range of motion and holds it all together. You have to de-solder the POT from the Hoyt board and mount it to the PCB.  Solder wires between the trigger PCB and the hoyt board.  Make sure to secure the wires, pads rip off PCBs easily. Maybe with hot glue?  The 3D models were sourced from the FreeSk8 model repository. The tigger assembly STL is attached for additional modeling you might want to do.  Maybe design your own shell with a remote mounted trigger?  
+*Trigger Assembly:*  You can create this by using copper clad PCB material and drilling the hole pattern shown in the pdf. Or you can fabricate the PCB yourself with the gerbers attached.  The assembly uses the Hoyt trigger parts that come with the remote:  Spring, thumb wheel (maybe create your own with a trigger), key nob(?) and bracket that limits the range of motion and holds it all together. You have to de-solder the POT from the Hoyt board and mount it to the PCB.  Solder wires between the trigger PCB and the hoyt board.  Wires should face out on this assembly or the spring might hit them.  Make sure to secure the wires to the main PCB, pads rip off PCBs easily. Maybe with hot glue?  The 3D models were sourced from the FreeSk8 model repository. The tigger assembly STL is attached for additional modeling you might want to do.  Maybe design your own shell with a remote mounted trigger?  
 
 *Files in repository* 
 
@@ -17,6 +17,11 @@ Many thanks to the Freesk8 crew to inspiring me to work on this and giving me th
 
 **NEW**
 -MiniPistolGrip R11.f3z  Fusion archive of the full model.  This is the version with the trigger guard.  Warning: I have not finished printing this and verifying fit.
+
+-MiniPistolGripGaurd STL files for both self tapping screws and embedded nuts.  
+
+*Printing
+-I printed these with the interior face down.  In my experience his results in the best surface finish for the spots you will touch.  I used supports and printed on a Prusa MK3s.
 
 *Assembly:* 
 1)Slide the trigger assembly into the grip body. You might need to file the sides of the trigger slot so the trigger moves clean and freely.
@@ -30,11 +35,7 @@ Many thanks to the Freesk8 crew to inspiring me to work on this and giving me th
  
 
 Things to do:
-
--It needs a trigger design, which I have not gotten to yet. Works ok with a “nub”
-
--It also needs a bit of work for the interface between the two shells. I printed both with the interior side down which results in a great finish at the expense of those bottom/contact edges. I have only been printing for about a month so maybe someone would know a better way to print it.
-
--Battery might need a little foam to keep it from moving.
+-Removable trigger gaurd
+-Flashlight Mount
 
 
